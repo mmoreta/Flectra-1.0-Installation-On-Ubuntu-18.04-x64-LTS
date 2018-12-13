@@ -1,6 +1,5 @@
 # Flectra-1.0-Installation-On-Ubuntu-18.04-x64-LTS
 
-#!/bin/bash
 sudo adduser --system --quiet --shell=/bin/bash --home=/opt/flectra --gecos 'flectra' --group flectra
 sudo mkdir /etc/flectra && 
 sudo mkdir /var/log/flectra/
